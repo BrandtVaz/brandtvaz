@@ -17,7 +17,6 @@ Meu nome é Marina, e essas são algumas informações sobre mim:
   <img align="center" alt="Marina-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Marina-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
   <img align="center" alt="Marina-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg">
-  <img align="right" alt="Marina-Chibi" src="https://postimg.cc/cKxh7PYS">
 </div>
 
 ##
