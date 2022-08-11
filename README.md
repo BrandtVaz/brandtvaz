@@ -1,5 +1,6 @@
 ## Oie!
 
+Meu nome é Marina, e essas são algumas informações sobre mim:
 - 🎮 Tecnóloga em Jogos Digitais
 - 🤓 Estou me aprimorando em Unity 2D e 3D
 - 🔥 Desenvolvedora em C#
@@ -11,8 +12,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brandtvaz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandtvaz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Marina-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
