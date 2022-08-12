@@ -5,7 +5,7 @@ Meu nome é Marina, e essas são algumas informações sobre mim:
 - 🤓 Estou me aprimorando em Unity 2D e 3D
 - 🔥 Desenvolvedora em C#
 - 🎨 Tentando aprender a fazer Pixel Art
-- 📫 Contate-me no e-mail: mahbrandt@gmail.com
+- 📫 Qualquer dúvida, fique à vontade para entrar em contato e me perguntar! 
 
 <div align="center">
   <a href="https://github.com/brandtvaz">
