@@ -22,7 +22,7 @@ Meu nome é Marina, e essas são algumas informações sobre mim:
 
 ##
 
-[![Marina-Chibi2.png](https://i.postimg.cc/9Xg3Tkp0/Marina-Chibi2.png)](https://postimg.cc/NLXPvpZv)
+[![Marina-Chibi2.png](https://i.postimg.cc/T2s7T5GN/Marina-Chibi2.png)](https://postimg.cc/F1jgZRY0)
 
 ##
 
