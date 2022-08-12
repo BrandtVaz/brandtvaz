@@ -23,10 +23,6 @@ Meu nome é Marina, e essas são algumas informações sobre mim:
 
 ##
 
-<a href='https://postimg.cc/FYf213Kj' target='_blank'><img src='https://i.postimg.cc/FYf213Kj/Marina-Chibi2.png' border='0' alt='Marina-Chibi2'/></a>
-
-##
-
 <div> 
   <a href = "mailto:mahbrandt@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
