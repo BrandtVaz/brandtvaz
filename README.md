@@ -17,12 +17,12 @@ Meu nome é Marina, e essas são algumas informações sobre mim:
   <img align="center" alt="Marina-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Marina-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
   <img align="center" alt="Marina-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg">
-  <a href='https://postimg.cc/FYf213Kj' target='_blank'><img src='https://i.postimg.cc/FYf213Kj/Marina-Chibi2.png' border='0' alt='Marina-Chibi2'/></a>
+
 </div>
 
 ##
 
-[![Marina-Chibi2.png](https://i.postimg.cc/dVnvH9PS/Marina-Chibi2.png)](https://postimg.cc/FYf213Kj)
+  <a href='https://postimg.cc/FYf213Kj' target='_blank'><img src='https://i.postimg.cc/FYf213Kj/Marina-Chibi2.png' border='0' alt='Marina-Chibi2'/></a>
 
 ##
 
