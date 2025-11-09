@@ -14,9 +14,12 @@ Meu nome é Marina, e essas são algumas informações sobre mim:
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Marina-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Marina-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
+  <img align="center" alt="Marina-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Marina-C#" height="30" width="40" src="https://raw.githubusercontent.com/dominickjohn/aseprite-big-sur-icon/refs/heads/main/AsepriteSurIcon.png">
   <img align="center" alt="Marina-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg">
+  <img align="center" alt="Marina-C#" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg">
+  <img align="center" alt="Marina-C#" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VisualStudio-Dark.svg">
   <img align="right" alt="Marina-Chibi" src="https://i.postimg.cc/FYf213Kj/Marina-Chibi2.png">
 
 </div>
@@ -24,5 +27,5 @@ Meu nome é Marina, e essas são algumas informações sobre mim:
 ##
 
 <div> 
-  <a href = "mailto:mahbrandt@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:brandtmah@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
