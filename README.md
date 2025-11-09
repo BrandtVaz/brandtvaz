@@ -1,4 +1,6 @@
-## Oie!
+[![MasterHead](https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif)](https://brandtvaz.io)
+
+<h1 align="center">Oie!</h1>
 
 Meu nome é Marina, e essas são algumas informações sobre mim:
 - 🎮 Tecnóloga em Jogos Digitais
