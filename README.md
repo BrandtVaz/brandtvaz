@@ -7,7 +7,7 @@ Meu nome é Marina, e essas são algumas informações sobre mim:
 - ☝🏻🤓 Tecnóloga em Jogos Digitais
 - 💾 Me aprimorando constantemente em **Unity**
 - 🔥 Desenvolvedora focada em **CSharp**
-- 🎨 Tento me arriscar com **Pixel Art** e Modelagem **3D**
+- 🎨 Tento me arriscar com **Pixel Art** e **Modelagem 3D**
 - 💥 Fã do Dynamight!
 
 ##
